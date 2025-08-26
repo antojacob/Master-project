@@ -111,6 +111,16 @@ Here’s what you can expect:
 
 ✅ Research & academic projects in predictive modeling
 
+🤝 Contributing
+
+Contributions are welcome!
+
+Fork the repo
+
+Create a feature branch
+
+Submit a pull request
+
 📜 License
 
 This project is licensed under the MIT License.
